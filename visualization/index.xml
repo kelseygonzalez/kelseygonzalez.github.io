@@ -256,10 +256,12 @@ successfully reduced movement during the week of March 23rd and April 13th,
 with Americans reverting towards pre-COVID-19 movement patterns in between.&lt;/p&gt;
 &lt;p&gt;This visualization won the University of Arizona Library Data Visualization Contest.
 Learn more here: &lt;a href=&#34;https://new.library.arizona.edu/news/2020-data-visualization-challenge-winners&#34;&gt;https://new.library.arizona.edu/news/2020-data-visualization-challenge-winners&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Data is available at &lt;a href=&#34;https://www.cuebiq.com/visitation-insights-covid19/&#34;&gt;https://www.cuebiq.com/visitation-insights-covid19/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Source Code is available at &lt;a href=&#34;https://github.com/kelseygonzalez/covid_mobility&#34;&gt;https://github.com/kelseygonzalez/covid_mobility&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a doi for this visualization is available at &lt;a href=&#34;https://doi.org/10.25422/azu.data.12374810.v1&#34;&gt;https://doi.org/10.25422/azu.data.12374810.v1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;%22covidmobility.gif%22&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data is available at &lt;a href=&#34;https://www.cuebiq.com/visitation-insights-covid19/&#34;&gt;https://www.cuebiq.com/visitation-insights-covid19/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source Code is available at &lt;a href=&#34;https://github.com/kelseygonzalez/covid_mobility&#34;&gt;https://github.com/kelseygonzalez/covid_mobility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;a doi for this visualization is available at &lt;a href=&#34;https://doi.org/10.25422/azu.data.12374810.v1&#34;&gt;https://doi.org/10.25422/azu.data.12374810.v1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/img/covidmobility.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
