@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chisholm, Katelyn | Kelsey E. Gonzalez</title>
+    <link>/author/chisholm-katelyn/</link>
+      <atom:link href="/author/chisholm-katelyn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chisholm, Katelyn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/kelseygonzalez2020.png</url>
+      <title>Chisholm, Katelyn</title>
+      <link>/author/chisholm-katelyn/</link>
+    </image>
+    
+    <item>
+      <title>A Study and Analysis of the Treatment of Mexican Unaccompanied Minors by Customs and Border Protection</title>
+      <link>/publication/unaccompaniedminors/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unaccompaniedminors/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
