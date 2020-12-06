@@ -5,12 +5,20 @@
     <link>/workshop/</link>
       <atom:link href="/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 09:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/kelseygonzalez2020.png</url>
       <title>Posts</title>
       <link>/workshop/</link>
     </image>
+    
+    <item>
+      <title>Software Carpentry R for Reproducible Scientific Analysis</title>
+      <link>/workshop/2020-11-07-swc-tucson/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/workshop/2020-11-07-swc-tucson/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KEYS R workshop</title>

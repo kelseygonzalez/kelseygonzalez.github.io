@@ -4,12 +4,102 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kelsey-e.-gonzalez/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laura-upenieks/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/agecoronavirus/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/terrence-d.-hill/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/workshop/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/workshop/2020-11-07-swc-tucson/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrew-p.-davis/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/politicscoronavirus/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adrienne-n.-milner/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrew-h.-mannheimer/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/whitefragility/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,37 +108,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/kelsey-e.-gonzalez/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/latinohispanic/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,11 +133,6 @@
   </url>
   
   <url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/course/soc303/soc303/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
@@ -88,22 +143,12 @@
   </url>
   
   <url>
-    <loc>/author/terrence-d.-hill/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/religiositycoronavirus/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/workshop/2020-06-10-keys/</loc>
-    <lastmod>2020-06-10T09:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workshop/</loc>
     <lastmod>2020-06-10T09:13:14-05:00</lastmod>
   </url>
   
@@ -195,16 +240,6 @@
   <url>
     <loc>/course/soc101/soc101/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
