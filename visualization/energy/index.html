@@ -691,6 +691,7 @@
 
     <div class="article-style">
       
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <p>With Tidy Tuesday 2020-08-04, I use a dataset of European energy sources to explore the similarity of country energy sources by source and size.</p>
@@ -698,6 +699,18 @@
 <pre class="r"><code>if (!require(&quot;pacman&quot;)) install.packages(&quot;pacman&quot;)</code></pre>
 <pre><code>## Loading required package: pacman</code></pre>
 <pre class="r"><code>pacman::p_load(tidytuesdayR, factoextra, ggdendro, dendextend, tidyverse, patchwork)</code></pre>
+<pre><code>## Installing package into &#39;C:/Users/ckgon/R/win-library/4.0&#39;
+## (as &#39;lib&#39; is unspecified)</code></pre>
+<pre><code>## also installing the dependency &#39;dendextend&#39;</code></pre>
+<pre><code>## Warning: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.0:
+##   cannot open URL &#39;http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.0/PACKAGES&#39;</code></pre>
+<pre><code>## package &#39;dendextend&#39; successfully unpacked and MD5 sums checked
+## package &#39;factoextra&#39; successfully unpacked and MD5 sums checked
+## 
+## The downloaded binary packages are in
+##  C:\Users\ckgon\AppData\Local\Temp\Rtmpu6fxP1\downloaded_packages</code></pre>
+<pre><code>## 
+## factoextra installed</code></pre>
 <p>load and wrangle data</p>
 <pre class="r"><code>tuesdata &lt;- tidytuesdayR::tt_load(2020, week = 32)</code></pre>
 <pre><code>## --- Compiling #TidyTuesday Information for 2020-08-04 ----</code></pre>
