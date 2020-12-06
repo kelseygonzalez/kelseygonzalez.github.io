@@ -680,7 +680,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 576px;">
   <div style="position: relative">
-    <img src="/visualization/mbcp/featured_hue1a7fec64d41b9c748bcebbef93607b5_221647_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/visualization/mbcp/featured_hue83e0946c0de7b900f8ba2fcc4f7772e_1316878_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -691,7 +691,6 @@
 
     <div class="article-style">
       
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <p>Using data from the Migrant Border Crossing Project (Slack, Martínez, and Whiteford), I map out how Mexican origins cross the US border at different points en route to new destinations. This visualization was created to support the new publication of <a href="http://doi.org/10.1080/00380253.2020.1733448">“Destination Intentions of Unauthorized Mexican Border Crossers and Familial Ties to US Citizens”</a> at <em>The Sociological Quarterly</em>.</p>
@@ -703,16 +702,6 @@
 if (!require(&quot;pacman&quot;)) install.packages(&quot;pacman&quot;)</code></pre>
 <pre><code>## Loading required package: pacman</code></pre>
 <pre class="r"><code>pacman::p_load(tidyverse, ggalluvial, readxl, ggrepel)</code></pre>
-<pre><code>## Installing package into &#39;C:/Users/ckgon/R/win-library/4.0&#39;
-## (as &#39;lib&#39; is unspecified)</code></pre>
-<pre><code>## Warning: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.0:
-##   cannot open URL &#39;http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.0/PACKAGES&#39;</code></pre>
-<pre><code>## package &#39;ggalluvial&#39; successfully unpacked and MD5 sums checked
-## 
-## The downloaded binary packages are in
-##  C:\Users\ckgon\AppData\Local\Temp\RtmpU5BlTO\downloaded_packages</code></pre>
-<pre><code>## 
-## ggalluvial installed</code></pre>
 <div id="load-data" class="section level4">
 <h4>load data</h4>
 <pre class="r"><code>df &lt;- readxl::read_excel(&quot;MBCS II_geo_3.xls&quot;) %&gt;%
