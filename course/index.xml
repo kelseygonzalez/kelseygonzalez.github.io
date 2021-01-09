@@ -5,7 +5,7 @@
     <link>/course/</link>
       <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/kelseygonzalez2020.png</url>
       <title>Courses</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Soc / Chs 303: Health &amp; Society</title>
-      <link>/course/soc303/soc303/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/course/soc303/soc303/</guid>
+      <title>Winter 2020: Health &amp; Society</title>
+      <link>/course/w20_soc303/soc303/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/course/w20_soc303/soc303/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Soc 101: Introduction to Sociology</title>
-      <link>/course/soc101/soc101/</link>
+      <title>Summer 2020: Health &amp; Society</title>
+      <link>/course/s20_soc303/soc303/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/course/s20_soc303/soc303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer 2019: Introduction to Sociology</title>
+      <link>/course/s19_soc101/soc101/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/course/soc101/soc101/</guid>
+      <guid>/course/s19_soc101/soc101/</guid>
       <description></description>
     </item>
     
