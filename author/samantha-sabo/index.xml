@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samantha Sabo | Kelsey E. Gonzalez</title>
-    <link>kelseygonzalez.github.io/author/samantha-sabo/</link>
-      <atom:link href="kelseygonzalez.github.io/author/samantha-sabo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/samantha-sabo/</link>
+      <atom:link href="/author/samantha-sabo/index.xml" rel="self" type="application/rss+xml" />
     <description>Samantha Sabo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
+      <url>/media/kelseygonzalez2020.png</url>
       <title>Samantha Sabo</title>
-      <link>kelseygonzalez.github.io/author/samantha-sabo/</link>
+      <link>/author/samantha-sabo/</link>
     </image>
     
     <item>
       <title>A Study and Analysis of the Treatment of Mexican Unaccompanied Minors by Customs and Border Protection</title>
-      <link>kelseygonzalez.github.io/publication/unaccompaniedminors/</link>
+      <link>/publication/unaccompaniedminors/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/unaccompaniedminors/</guid>
+      <guid>/publication/unaccompaniedminors/</guid>
       <description></description>
     </item>
     

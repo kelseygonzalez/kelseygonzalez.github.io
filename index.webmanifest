@@ -5,14 +5,14 @@
   "theme_color": "#52796f",
   "background_color": "#52796f",
   "icons": [{
-    "src": "/kelseygonzalez.github.io/images/icon_hu96e0d9297035727ed28bab4e39432e97_33685_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu96e0d9297035727ed28bab4e39432e97_33685_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/kelseygonzalez.github.io/images/icon_hu96e0d9297035727ed28bab4e39432e97_33685_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu96e0d9297035727ed28bab4e39432e97_33685_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/kelseygonzalez.github.io/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

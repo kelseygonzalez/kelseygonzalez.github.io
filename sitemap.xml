@@ -1,263 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>kelseygonzalez.github.io/workshop/2021-05-26-cpath/</loc>
+    <loc>/workshop/2021-05-26-cpath/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/</loc>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/workshop/</loc>
+  </url><url>
+    <loc>/workshop/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/tags/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/tag/workshop/</loc>
+  </url><url>
+    <loc>/tag/workshop/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication-type/2/</loc>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/andrew-p.-davis/</loc>
+  </url><url>
+    <loc>/author/andrew-p.-davis/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/authors/</loc>
+  </url><url>
+    <loc>/authors/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/kelsey-e.-gonzalez/</loc>
+  </url><url>
+    <loc>/author/kelsey-e.-gonzalez/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication_types/</loc>
+  </url><url>
+    <loc>/publication_types/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/</loc>
+  </url><url>
+    <loc>/publication/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/terrence-d.-hill/</loc>
+  </url><url>
+    <loc>/author/terrence-d.-hill/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/politicscoronavirus/</loc>
+  </url><url>
+    <loc>/publication/politicscoronavirus/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/course/</loc>
+  </url><url>
+    <loc>/course/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/tag/demo/</loc>
+  </url><url>
+    <loc>/tag/demo/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/course/w20_soc303/soc303/</loc>
+  </url><url>
+    <loc>/course/w20_soc303/soc303/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/laura-upenieks/</loc>
+  </url><url>
+    <loc>/author/laura-upenieks/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/agecoronavirus/</loc>
+  </url><url>
+    <loc>/publication/agecoronavirus/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/workshop/2020-11-07-swc-tucson/</loc>
+  </url><url>
+    <loc>/workshop/2020-11-07-swc-tucson/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication-type/6/</loc>
+  </url><url>
+    <loc>/publication-type/6/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/adrienne-n.-milner/</loc>
+  </url><url>
+    <loc>/author/adrienne-n.-milner/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/andrew-h.-mannheimer/</loc>
+  </url><url>
+    <loc>/author/andrew-h.-mannheimer/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/whitefragility/</loc>
+  </url><url>
+    <loc>/publication/whitefragility/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/tag/source-themes/</loc>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/daniel-e.-martinez/</loc>
+  </url><url>
+    <loc>/author/daniel-e.-martinez/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/latinohispanic/</loc>
+  </url><url>
+    <loc>/publication/latinohispanic/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/visualization/mbcp/</loc>
+  </url><url>
+    <loc>/visualization/mbcp/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/visualization/</loc>
+  </url><url>
+    <loc>/visualization/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/visualization/2020-08-15-socranking/</loc>
+  </url><url>
+    <loc>/visualization/2020-08-15-socranking/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/course/s20_soc303/soc303/</loc>
+  </url><url>
+    <loc>/course/s20_soc303/soc303/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/amy-m.-burdette/</loc>
+  </url><url>
+    <loc>/author/amy-m.-burdette/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/religiositycoronavirus/</loc>
+  </url><url>
+    <loc>/publication/religiositycoronavirus/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/workshop/2020-06-10-keys/</loc>
+  </url><url>
+    <loc>/workshop/2020-06-10-keys/</loc>
     <lastmod>2020-06-10T09:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/workshop/2020-05-25-gganimate/</loc>
+  </url><url>
+    <loc>/workshop/2020-05-25-gganimate/</loc>
     <lastmod>2020-05-25T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/visualization/coronavirus-unemployment/</loc>
+  </url><url>
+    <loc>/visualization/coronavirus-unemployment/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/visualization/energy/</loc>
+  </url><url>
+    <loc>/visualization/energy/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/unaccompaniedminors/</loc>
+  </url><url>
+    <loc>/publication/unaccompaniedminors/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/diego-garcia/</loc>
+  </url><url>
+    <loc>/author/diego-garcia/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/edrick-villalobos/</loc>
+  </url><url>
+    <loc>/author/edrick-villalobos/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/jeremy-slack/</loc>
+  </url><url>
+    <loc>/author/jeremy-slack/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/katelyn-chisholm/</loc>
+  </url><url>
+    <loc>/author/katelyn-chisholm/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/kiera-coulter/</loc>
+  </url><url>
+    <loc>/author/kiera-coulter/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/samantha-sabo/</loc>
+  </url><url>
+    <loc>/author/samantha-sabo/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/sonia-bass-zavala/</loc>
+  </url><url>
+    <loc>/author/sonia-bass-zavala/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/author/taylor-levy/</loc>
+  </url><url>
+    <loc>/author/taylor-levy/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/publication/primarypanethnicity/</loc>
+  </url><url>
+    <loc>/publication/primarypanethnicity/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/visualization/mobility/</loc>
+  </url><url>
+    <loc>/visualization/mobility/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/workshop/2020-01-15-dc-brynmawr/</loc>
+  </url><url>
+    <loc>/workshop/2020-01-15-dc-brynmawr/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/workshop/2019-10-26-swc-tucson/</loc>
+  </url><url>
+    <loc>/workshop/2019-10-26-swc-tucson/</loc>
     <lastmod>2019-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/course/s19_soc101/soc101/</loc>
+  </url><url>
+    <loc>/course/s19_soc101/soc101/</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/course/sp21_stat412/stat412/</loc>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/course/sp21_stat412/stat412/</loc>
-  </url>
-  
-  <url>
-    <loc>kelseygonzalez.github.io/categories/</loc>
-  </url>
-  
 </urlset>

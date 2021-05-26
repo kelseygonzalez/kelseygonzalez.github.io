@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Kelsey E. Gonzalez</title>
-    <link>kelseygonzalez.github.io/publication/</link>
-      <atom:link href="kelseygonzalez.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
+      <url>/media/kelseygonzalez2020.png</url>
       <title>Publications</title>
-      <link>kelseygonzalez.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>The Nastiest Question: Does Population Mobility vary by State Political Ideology during the Novel Coronavirus (COVID-19) Pandemic?</title>
-      <link>kelseygonzalez.github.io/publication/politicscoronavirus/</link>
+      <link>/publication/politicscoronavirus/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/politicscoronavirus/</guid>
+      <guid>/publication/politicscoronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Love thy Aged? A State-Level Analysis of Religiosity and Mobility in Aging Populations during the Novel Coronavirus (COVID-19) Pandemic</title>
-      <link>kelseygonzalez.github.io/publication/agecoronavirus/</link>
+      <link>/publication/agecoronavirus/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/agecoronavirus/</guid>
+      <guid>/publication/agecoronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Status and White Fragility: Gender and Socioeconomic Variations</title>
-      <link>kelseygonzalez.github.io/publication/whitefragility/</link>
+      <link>/publication/whitefragility/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/whitefragility/</guid>
+      <guid>/publication/whitefragility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latino or Hispanic?: The Sociodemographic Correlates of Panethnic Label Preferences among US Latinos/Hispanics</title>
-      <link>kelseygonzalez.github.io/publication/latinohispanic/</link>
+      <link>/publication/latinohispanic/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/latinohispanic/</guid>
+      <guid>/publication/latinohispanic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Blood of Christ Compels Them: State Religiosity and State Population Mobility During the Coronavirus (COVID-19) Pandemic</title>
-      <link>kelseygonzalez.github.io/publication/religiositycoronavirus/</link>
+      <link>/publication/religiositycoronavirus/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/religiositycoronavirus/</guid>
+      <guid>/publication/religiositycoronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Study and Analysis of the Treatment of Mexican Unaccompanied Minors by Customs and Border Protection</title>
-      <link>kelseygonzalez.github.io/publication/unaccompaniedminors/</link>
+      <link>/publication/unaccompaniedminors/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/unaccompaniedminors/</guid>
+      <guid>/publication/unaccompaniedminors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panethnicity as a reactive identity: primary panethnic identification among Latino-Hispanics in the United States</title>
-      <link>kelseygonzalez.github.io/publication/primarypanethnicity/</link>
+      <link>/publication/primarypanethnicity/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/primarypanethnicity/</guid>
+      <guid>/publication/primarypanethnicity/</guid>
       <description></description>
     </item>
     

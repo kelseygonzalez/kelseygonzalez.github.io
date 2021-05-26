@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Kelsey E. Gonzalez</title>
-    <link>kelseygonzalez.github.io/tag/source-themes/</link>
-      <atom:link href="kelseygonzalez.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/source-themes/</link>
+      <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
+      <url>/media/kelseygonzalez2020.png</url>
       <title>Source Themes</title>
-      <link>kelseygonzalez.github.io/tag/source-themes/</link>
+      <link>/tag/source-themes/</link>
     </image>
     
     <item>
       <title>Social Status and White Fragility: Gender and Socioeconomic Variations</title>
-      <link>kelseygonzalez.github.io/publication/whitefragility/</link>
+      <link>/publication/whitefragility/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/whitefragility/</guid>
+      <guid>/publication/whitefragility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latino or Hispanic?: The Sociodemographic Correlates of Panethnic Label Preferences among US Latinos/Hispanics</title>
-      <link>kelseygonzalez.github.io/publication/latinohispanic/</link>
+      <link>/publication/latinohispanic/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/latinohispanic/</guid>
+      <guid>/publication/latinohispanic/</guid>
       <description></description>
     </item>
     

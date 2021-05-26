@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew P. Davis | Kelsey E. Gonzalez</title>
-    <link>kelseygonzalez.github.io/author/andrew-p.-davis/</link>
-      <atom:link href="kelseygonzalez.github.io/author/andrew-p.-davis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/andrew-p.-davis/</link>
+      <atom:link href="/author/andrew-p.-davis/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew P. Davis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
+      <url>/media/kelseygonzalez2020.png</url>
       <title>Andrew P. Davis</title>
-      <link>kelseygonzalez.github.io/author/andrew-p.-davis/</link>
+      <link>/author/andrew-p.-davis/</link>
     </image>
     
     <item>
       <title>The Nastiest Question: Does Population Mobility vary by State Political Ideology during the Novel Coronavirus (COVID-19) Pandemic?</title>
-      <link>kelseygonzalez.github.io/publication/politicscoronavirus/</link>
+      <link>/publication/politicscoronavirus/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/politicscoronavirus/</guid>
+      <guid>/publication/politicscoronavirus/</guid>
       <description></description>
     </item>
     

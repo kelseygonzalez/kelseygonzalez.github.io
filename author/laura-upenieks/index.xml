@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Upenieks | Kelsey E. Gonzalez</title>
-    <link>kelseygonzalez.github.io/author/laura-upenieks/</link>
-      <atom:link href="kelseygonzalez.github.io/author/laura-upenieks/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/laura-upenieks/</link>
+      <atom:link href="/author/laura-upenieks/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Upenieks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
+      <url>/media/kelseygonzalez2020.png</url>
       <title>Laura Upenieks</title>
-      <link>kelseygonzalez.github.io/author/laura-upenieks/</link>
+      <link>/author/laura-upenieks/</link>
     </image>
     
     <item>
       <title>Love thy Aged? A State-Level Analysis of Religiosity and Mobility in Aging Populations during the Novel Coronavirus (COVID-19) Pandemic</title>
-      <link>kelseygonzalez.github.io/publication/agecoronavirus/</link>
+      <link>/publication/agecoronavirus/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>kelseygonzalez.github.io/publication/agecoronavirus/</guid>
+      <guid>/publication/agecoronavirus/</guid>
       <description></description>
     </item>
     
