@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terrence D. Hill | Kelsey E. Gonzalez</title>
-    <link>/author/terrence-d.-hill/</link>
-      <atom:link href="/author/terrence-d.-hill/index.xml" rel="self" type="application/rss+xml" />
+    <link>kelseygonzalez.github.io/author/terrence-d.-hill/</link>
+      <atom:link href="kelseygonzalez.github.io/author/terrence-d.-hill/index.xml" rel="self" type="application/rss+xml" />
     <description>Terrence D. Hill</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/kelseygonzalez2020.png</url>
+      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
       <title>Terrence D. Hill</title>
-      <link>/author/terrence-d.-hill/</link>
+      <link>kelseygonzalez.github.io/author/terrence-d.-hill/</link>
     </image>
     
     <item>
       <title>The Nastiest Question: Does Population Mobility vary by State Political Ideology during the Novel Coronavirus (COVID-19) Pandemic?</title>
-      <link>/publication/politicscoronavirus/</link>
+      <link>kelseygonzalez.github.io/publication/politicscoronavirus/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/politicscoronavirus/</guid>
+      <guid>kelseygonzalez.github.io/publication/politicscoronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Love thy Aged? A State-Level Analysis of Religiosity and Mobility in Aging Populations during the Novel Coronavirus (COVID-19) Pandemic</title>
-      <link>/publication/agecoronavirus/</link>
+      <link>kelseygonzalez.github.io/publication/agecoronavirus/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/agecoronavirus/</guid>
+      <guid>kelseygonzalez.github.io/publication/agecoronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Status and White Fragility: Gender and Socioeconomic Variations</title>
-      <link>/publication/whitefragility/</link>
+      <link>kelseygonzalez.github.io/publication/whitefragility/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/whitefragility/</guid>
+      <guid>kelseygonzalez.github.io/publication/whitefragility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Blood of Christ Compels Them: State Religiosity and State Population Mobility During the Coronavirus (COVID-19) Pandemic</title>
-      <link>/publication/religiositycoronavirus/</link>
+      <link>kelseygonzalez.github.io/publication/religiositycoronavirus/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/religiositycoronavirus/</guid>
+      <guid>kelseygonzalez.github.io/publication/religiositycoronavirus/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop | Kelsey E. Gonzalez</title>
-    <link>/tag/workshop/</link>
-      <atom:link href="/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <link>kelseygonzalez.github.io/tag/workshop/</link>
+      <atom:link href="kelseygonzalez.github.io/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 09:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/kelseygonzalez2020.png</url>
+      <url>kelseygonzalez.github.io/media/kelseygonzalez2020.png</url>
       <title>Workshop</title>
-      <link>/tag/workshop/</link>
+      <link>kelseygonzalez.github.io/tag/workshop/</link>
     </image>
     
     <item>
+      <title>Advanced Data Wrangling in R</title>
+      <link>kelseygonzalez.github.io/workshop/2021-05-26-cpath/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>kelseygonzalez.github.io/workshop/2021-05-26-cpath/</guid>
+      <description>
+&lt;script src=&#34;kelseygonzalez.github.io/workshop/2021-05-26-cpath/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;welcome&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;This is the course site for the Advanced Data Wrangling in R workshop created by Kelsey Gonzalez for the Critical Path Institute in Tucson Arizona from May 26-28, 2021.&lt;/p&gt;
+&lt;p&gt;This nine-hour hands-on workshop is an exploration of the Tidyverse as a tool to wrangle your data in preparation for analysis.&lt;/p&gt;
+&lt;p&gt;Day 1 will cover basic dplyr funcitonality including &lt;code&gt;select&lt;/code&gt;, &lt;code&gt;filter&lt;/code&gt;, &lt;code&gt;arrange&lt;/code&gt;, &lt;code&gt;mutate&lt;/code&gt;, &lt;code&gt;group_by&lt;/code&gt; and &lt;code&gt;summarize&lt;/code&gt; and then moves into the concept of tidy data and pivots.&lt;/p&gt;
+&lt;p&gt;Day 2 will cover special variable types and advanced creation of new variables. Specifically, we will cover &lt;code&gt;case_when&lt;/code&gt;, factors with &lt;code&gt;forcats&lt;/code&gt;, dates with &lt;code&gt;lubridate&lt;/code&gt;, and strings and regular expressions with &lt;code&gt;stringr&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Day 3 will cover relational data and joins in addition to more advanced and cutting edge dplyr functions like &lt;code&gt;across&lt;/code&gt;, &lt;code&gt;colwise&lt;/code&gt;, &lt;code&gt;rowwise&lt;/code&gt;. After diving into &lt;code&gt;purrr&lt;/code&gt; for iteration, we will dive into case studies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;prework&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Prework&lt;/h1&gt;
+&lt;p&gt;We will use Rstudio desktop for this workshop. You’re also welcome to utilize Rstudio cloud.
+- Install &lt;a href=&#34;https://cloud.r-project.org/&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://rstudio.com/products/rstudio/download/&#34;&gt;RStudio Desktop&lt;/a&gt; on your computer.&lt;/p&gt;
+&lt;p&gt;You can find step-by-step instructions for installing these here: &lt;a href=&#34;https://www.youtube.com/watch?v=GM88tYlEy_g&#34;&gt;macOS&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=JRKmZK5-6aE&#34;&gt;Windows&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install the following packages:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# From CRAN
+install.packages(&amp;quot;tidyverse&amp;quot;)
+install.packages(&amp;quot;NHANES&amp;quot;)
+install.packages(&amp;quot;janitor&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;links&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Links&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Link to this website: &lt;a href=&#34;https://bit.ly/cpath-wrangling&#34;&gt;https://bit.ly/cpath-wrangling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Day 1: &lt;a href=&#34;cpath-training/day-01-basics.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Day 2: &lt;a href=&#34;cpath-training/day-02-variables.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Day 3: &lt;a href=&#34;cpath-training/day-03-advanced.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>KEYS R workshop</title>
-      <link>/workshop/2020-06-10-keys/</link>
+      <link>kelseygonzalez.github.io/workshop/2020-06-10-keys/</link>
       <pubDate>Wed, 10 Jun 2020 09:13:14 -0500</pubDate>
-      <guid>/workshop/2020-06-10-keys/</guid>
+      <guid>kelseygonzalez.github.io/workshop/2020-06-10-keys/</guid>
       <description>
 
 
@@ -446,7 +488,7 @@ common ones today, including:&lt;/p&gt;&lt;/li&gt;
 &lt;p&gt;To add a geom to the plot use the &lt;code&gt;+&lt;/code&gt; operator. Because we have two continuous variables, let’s use &lt;code&gt;geom_point()&lt;/code&gt; first:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
     geom_point()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/first-ggplot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/first-ggplot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;+&lt;/code&gt; in the &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; package is particularly useful because it allows you to modify existing &lt;code&gt;ggplot&lt;/code&gt; objects. This means you can easily set up plot templates and conveniently explore different types of plots, so the above plot can also be generated with code like this:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Assign plot to a variable
 penguins_plot &amp;lt;- ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g))
@@ -475,23 +517,23 @@ penguins_plot
 &lt;p&gt;Building plots with &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; is typically an iterative process. We start by defining the dataset we’ll use, lay out the axes, and choose a geom:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
     geom_point()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/create-ggplot-object-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/create-ggplot-object-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Then, we start modifying this plot to extract more information from it. For instance, we can add transparency (&lt;code&gt;alpha&lt;/code&gt;) to avoid overplotting:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
     geom_point(alpha = 0.5)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/adding-transparency-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/adding-transparency-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;That only helped a little bit with the overplotting problem. We can also introduce a little bit of randomness into the position of our points using the &lt;code&gt;geom_jitter()&lt;/code&gt; function.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
     geom_jitter(alpha = 0.5)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/adding-jitter-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/adding-jitter-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;We can also add colors for all the points:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
     geom_jitter(alpha = 0.5, color = &amp;quot;blue&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/adding-colors-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/adding-colors-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Or to color each species in the plot differently, you could use a vector as an input to the argument &lt;strong&gt;&lt;code&gt;color&lt;/code&gt;&lt;/strong&gt;. Because we are now mapping features of the data to a color, instead of setting one color for all points, the color now needs to be set inside a call to the &lt;strong&gt;&lt;code&gt;aes&lt;/code&gt;&lt;/strong&gt; function. &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; will provide a different color corresponding to different values in the vector. We set the value of &lt;strong&gt;&lt;code&gt;alpha&lt;/code&gt;&lt;/strong&gt; outside of the &lt;strong&gt;&lt;code&gt;aes&lt;/code&gt;&lt;/strong&gt; function call because we are using the same value for all points. Here is an example where we color by &lt;strong&gt;&lt;code&gt;island&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
     geom_jitter(aes(color = species), alpha = 0.5)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/color-by-species-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/color-by-species-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;There appears to be a positive trend between flipper length and body massof penguins. This trend does not appear to be different by species, but we can see that Chinstrap and Adelie penguins have shorter flippers and small body mass than Gentoo.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;adding-labels-and-titles&#34; class=&#34;section level2&#34;&gt;
@@ -502,7 +544,7 @@ penguins_plot
     labs(title=&amp;quot;Body Mass by Flipper Length&amp;quot;,
          x=&amp;quot;Flipper Length (mm)&amp;quot;,
          y=&amp;quot;Body Mass (g)&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/color-by-species-labeled-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/color-by-species-labeled-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h2 id=&#34;exercise-3&#34;&gt;Exercise&lt;/h2&gt;
 &lt;p&gt;Use what you just learned to create a scatter plot of &lt;code&gt;bill_length_mm&lt;/code&gt; by &lt;code&gt;species&lt;/code&gt; with the &lt;code&gt;sex&lt;/code&gt; showing in different colors. Is this a good way to show this type of data?&lt;/p&gt;
@@ -517,12 +559,12 @@ geom_jitter(aes(color = sex))&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;We can use boxplots to visualize the distribution of rooms for each wall type:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = species, y = bill_length_mm)) +
     geom_boxplot()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/boxplot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/boxplot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;By adding points to a boxplot, we can have a better idea of the number of measurements and of their distribution:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = species, y = bill_length_mm)) +
     geom_boxplot(alpha = 0) +
     geom_jitter(alpha = 0.5, color = &amp;quot;tomato&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/boxplot-with-points-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/boxplot-with-points-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;We can see that Adelie penguins tend to have shorter bills than other species.&lt;/p&gt;
 &lt;p&gt;Notice how the boxplot layer is behind the jitter layer? What do you need to change in the code to put the boxplot in front of the points such that it’s not covered?&lt;/p&gt;
 &lt;blockquote&gt;
@@ -542,15 +584,15 @@ geom_jitter(aes(color = sex))&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Barplots are also useful for visualizing categorical data. By default, &lt;code&gt;geom_bar&lt;/code&gt; accepts a variable for x, and plots the number of instances each value of x (in this case, wall type) appears in the dataset.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = island)) +
     geom_bar()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/barplot-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/barplot-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;We can use the &lt;code&gt;fill&lt;/code&gt; aesthetic for the &lt;code&gt;geom_bar()&lt;/code&gt; geom to color bars by the portion of each count that is from each island.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = island)) +
     geom_bar(aes(fill = species))&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/barplot-stack-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/barplot-stack-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This creates a stacked bar chart. These are generally more difficult to read than side-by-side bars. We can separate the portions of the stacked bar that correspond to each island and put them side-by-side by using the &lt;code&gt;position&lt;/code&gt; argument for &lt;code&gt;geom_bar()&lt;/code&gt; and setting it to “dodge”.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = penguins, aes(x = island)) +
     geom_bar(aes(fill = species), position = &amp;quot;dodge&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-06-10-keys/index_files/figure-html/barplot-dodge-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-06-10-keys/index_files/figure-html/barplot-dodge-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ggplot2-themes&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;&lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; themes&lt;/h2&gt;
@@ -577,9 +619,9 @@ sheet&lt;/a&gt;, and think of ways you could improve the plot.&lt;/p&gt;
     
     <item>
       <title>gganimate: A Lesson with Avocados</title>
-      <link>/workshop/2020-05-25-gganimate/</link>
+      <link>kelseygonzalez.github.io/workshop/2020-05-25-gganimate/</link>
       <pubDate>Mon, 25 May 2020 21:13:14 -0500</pubDate>
-      <guid>/workshop/2020-05-25-gganimate/</guid>
+      <guid>kelseygonzalez.github.io/workshop/2020-05-25-gganimate/</guid>
       <description>
 
 
@@ -652,7 +694,7 @@ avocado_cities &amp;lt;- avocado %&amp;gt;% filter(!region %in% c(&amp;quot;Tota
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_us, 
        mapping = aes(x = Date, y = AveragePrice, color = type)) +
   geom_line()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;If we feel good on time, we can make a few adjustments to the plot before animating it.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_us, 
        mapping = aes(x = Date, y = AveragePrice, color = type)) +
@@ -662,7 +704,7 @@ avocado_cities &amp;lt;- avocado %&amp;gt;% filter(!region %in% c(&amp;quot;Tota
   theme_minimal() +
   labs(title = &amp;quot;Average Price of US Avocados&amp;quot;,
        caption = &amp;quot;Source: Kaggle&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This looks a lot better. I one what happened the summer of 2015! Now let’s animate this. The key to this animation is &lt;code&gt;transition_reveal()&lt;/code&gt;. Inside of the function, we can write out x axis variable. While it will take a few moments to render, you should see an animated plot in your plots pane.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_us, 
        mapping = aes(x = Date, y = AveragePrice, color = type)) +
@@ -675,7 +717,7 @@ avocado_cities &amp;lt;- avocado %&amp;gt;% filter(!region %in% c(&amp;quot;Tota
   transition_reveal(Date)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Let’s also save this, since each time we run the code it takes some time.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;anim_save(filename = &amp;quot;type_reveal.gif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/img/type_reveal.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/img/type_reveal.gif&#34; /&gt;&lt;/p&gt;
 &lt;div id=&#34;challenge&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Challenge&lt;/h3&gt;
 &lt;p&gt;Take a few minutes to try and plot the changes in total volume of organic avocados across time for the different regions of the USA.&lt;/p&gt;
@@ -692,7 +734,7 @@ avocado_cities &amp;lt;- avocado %&amp;gt;% filter(!region %in% c(&amp;quot;Tota
 ggplot(data = avocado_cities_filtered,
        mapping = aes(x = AveragePrice, y = `Total Volume`, color = region)) +
   geom_point()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-9-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-9-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;That legend is really going to get in the way. Let’s remove it and customize the circles before animating.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_cities_filtered,
        mapping = aes(x = AveragePrice, y = `Total Volume`, color = region)) +
@@ -702,7 +744,7 @@ ggplot(data = avocado_cities_filtered,
   theme_minimal() +
   theme(legend.position = &amp;quot;none&amp;quot;) +
   labs(title = &amp;quot;Avocados sold by price and city&amp;quot;) &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In practice, the animation is basically layering a bunch of plots on top of each other, as if they were facet_wraps. When I’m planning out an animation, I often use facet_wrap like you learned this morning to see the different layers before I “assemble” them.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_cities_filtered,
        mapping = aes(x = AveragePrice, y = `Total Volume`, color = region)) +
@@ -713,7 +755,7 @@ ggplot(data = avocado_cities_filtered,
   theme(legend.position = &amp;quot;none&amp;quot;) +
   labs(title = &amp;quot;Avocados sold by price and city&amp;quot;) +
   facet_wrap(~Date)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-11-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-11-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Now we can move on to animating this. transition_time() will replace the previous dot, making it hard to see any trends. Let’s add &lt;code&gt;shadow_wake&lt;/code&gt; so we can see the direction between points.&lt;/p&gt;
 &lt;p&gt;One really cool trick I like to employ is writing in the subtitle what point in time we’re currently animating. Before it didn’t really matter because the date was on the x axis, but not its hidden. For that, we need to add some &lt;code&gt;{}&lt;/code&gt; in the subtitle argument of labs.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_cities_filtered,
@@ -729,7 +771,7 @@ ggplot(data = avocado_cities_filtered,
   shadow_wake(wake_length = 0.2)    &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Let’s also save this, since each time we run the code it takes some time.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;anim_save(filename = &amp;quot;type_time.gif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/img/type_time.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/img/type_time.gif&#34; /&gt;&lt;/p&gt;
 &lt;div id=&#34;challenge-1&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Challenge&lt;/h3&gt;
 &lt;p&gt;Can you use transition_time to show how the price of organic avocados change over time for California?&lt;/p&gt;
@@ -746,7 +788,7 @@ ggplot(data = avocado_cities_filtered,
 ggplot(data = avocado_region_long,
        mapping = aes(x = size, y = volume, color = size)) +
   geom_boxplot() &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-14-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-14-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Let’s customize this a little to make it look nicer.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_region_long,
        mapping = aes(x = size, y = volume, color = size)) +
@@ -754,7 +796,7 @@ ggplot(data = avocado_region_long,
   theme_classic() +
   scale_y_continuous(labels = scales::comma_format()) +
   labs(title = &amp;quot;Boxplot of volume sold by Avocado Size&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-15-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/workshop/2020-05-25-gganimate/index_files/figure-html/unnamed-chunk-15-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;It isn’t particularly helpful that the previous view completely dissappears as in transition_time. Instead of using &lt;code&gt;shadow_wake()&lt;/code&gt;, let’s use &lt;code&gt;shadow_mark()&lt;/code&gt; to the animated plot to keep the past views visible.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = avocado_region_long,
        mapping = aes(x = size, y = volume, color = size)) +
@@ -766,7 +808,7 @@ ggplot(data = avocado_region_long,
   shadow_mark(alpha = 0.3, size = 0.5)    &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Let’s also save this, since each time we run the code it takes some time.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;anim_save(filename = &amp;quot;type_state.gif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/img/type_state.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/img/type_state.gif&#34; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;challenge-answers&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Challenge answers:&lt;/h3&gt;
@@ -781,7 +823,7 @@ Take a few minutes to try and plot the changes in total volume across time for t
        subtitle = &amp;quot;Date: {frame_along}&amp;quot;) +
   transition_reveal(Date)
 anim_save(&amp;quot;challenge_1.gif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/img/challenge_1.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/img/challenge_1.gif&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Challenge 2: Can you use transition_time to show how the price of organic avocados change over time for California?&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(data = filter(avocado_CA, type == &amp;quot;organic&amp;quot;),
        mapping = aes(x = Date, y = AveragePrice)) +
@@ -794,7 +836,7 @@ anim_save(&amp;quot;challenge_1.gif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
   transition_time(Date) +
   shadow_wake(wake_length = 0.2)    
 anim_save(&amp;quot;challenge_2.gif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/img/challenge_2.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kelseygonzalez.github.io/img/challenge_2.gif&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
