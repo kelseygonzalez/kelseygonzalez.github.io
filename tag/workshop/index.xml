@@ -26,9 +26,13 @@
 &lt;p&gt;This is the course site for the Advanced Data Wrangling in R workshop created by Kelsey Gonzalez for the Critical Path Institute in Tucson Arizona from May 26-28, 2021.&lt;/p&gt;
 &lt;p&gt;This nine-hour hands-on workshop is an exploration of the Tidyverse as a tool to wrangle your data in preparation for analysis.&lt;/p&gt;
 &lt;p&gt;Day 1 will cover basic dplyr funcitonality including &lt;code&gt;select&lt;/code&gt;, &lt;code&gt;filter&lt;/code&gt;, &lt;code&gt;arrange&lt;/code&gt;, &lt;code&gt;mutate&lt;/code&gt;, &lt;code&gt;group_by&lt;/code&gt; and &lt;code&gt;summarize&lt;/code&gt; and then moves into the concept of tidy data and pivots.&lt;/p&gt;
+&lt;div class=&#34;shareagain&#34; style=&#34;min-width:300px;margin:1em auto;&#34;&gt;
+&lt;iframe src=&#34;https://kelseygonzalez.github.io/cpath-training/day-01-basics.html&#34; width=&#34;500&#34; height=&#34;300&#34; style=&#34;border:2px solid currentColor;&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script&gt;fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});&lt;/script&gt;
+&lt;/div&gt;
 &lt;p&gt;Day 2 will cover special variable types and advanced creation of new variables. Specifically, we will cover &lt;code&gt;case_when&lt;/code&gt;, factors with &lt;code&gt;forcats&lt;/code&gt;, dates with &lt;code&gt;lubridate&lt;/code&gt;, and strings and regular expressions with &lt;code&gt;stringr&lt;/code&gt;.&lt;/p&gt;
 &lt;div class=&#34;shareagain&#34; style=&#34;min-width:300px;margin:1em auto;&#34;&gt;
-&lt;iframe src=&#34;https://kelseygonzalez.github.io/cpath-training/day-01-basics.html&#34; width=&#34;400&#34; height=&#34;300&#34; style=&#34;border:2px solid currentColor;&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://kelseygonzalez.github.io/cpath-training/day-02-variables.html&#34; width=&#34;500&#34; height=&#34;300&#34; style=&#34;border:2px solid currentColor;&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script&gt;fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});&lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;Day 3 will cover relational data and joins in addition to more advanced and cutting edge dplyr functions like &lt;code&gt;across&lt;/code&gt;, &lt;code&gt;colwise&lt;/code&gt;, &lt;code&gt;rowwise&lt;/code&gt;. After diving into &lt;code&gt;purrr&lt;/code&gt; for iteration, we will dive into case studies.&lt;/p&gt;
@@ -44,7 +48,8 @@
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# From CRAN
 install.packages(&amp;quot;tidyverse&amp;quot;)
 install.packages(&amp;quot;NHANES&amp;quot;)
-install.packages(&amp;quot;janitor&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+install.packages(&amp;quot;janitor&amp;quot;)
+install.packages(&amp;quot;gapminder&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;links&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Links&lt;/h1&gt;
