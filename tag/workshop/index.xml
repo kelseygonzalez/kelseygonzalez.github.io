@@ -36,6 +36,10 @@
 &lt;script&gt;fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});&lt;/script&gt;
 &lt;/div&gt;
 &lt;p&gt;Day 3 will cover relational data and joins in addition to more advanced and cutting edge dplyr functions like &lt;code&gt;across&lt;/code&gt;, &lt;code&gt;colwise&lt;/code&gt;, &lt;code&gt;rowwise&lt;/code&gt;. After diving into &lt;code&gt;purrr&lt;/code&gt; for iteration, we will dive into case studies.&lt;/p&gt;
+&lt;div class=&#34;shareagain&#34; style=&#34;min-width:300px;margin:1em auto;&#34;&gt;
+&lt;iframe src=&#34;https://kelseygonzalez.github.io/cpath-training/day-03-advanced.html&#34; width=&#34;500&#34; height=&#34;300&#34; style=&#34;border:2px solid currentColor;&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script&gt;fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});&lt;/script&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;prework&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Prework&lt;/h1&gt;
@@ -49,15 +53,16 @@
 install.packages(&amp;quot;tidyverse&amp;quot;)
 install.packages(&amp;quot;NHANES&amp;quot;)
 install.packages(&amp;quot;janitor&amp;quot;)
-install.packages(&amp;quot;gapminder&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+install.packages(&amp;quot;gapminder&amp;quot;)
+install.packages(&amp;quot;glue&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;links&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Links&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Link to this website: &lt;a href=&#34;https://bit.ly/cpath-wrangling&#34;&gt;https://bit.ly/cpath-wrangling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Day 1: &lt;a href=&#34;cpath-training/day-01-basics.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Day 2: &lt;a href=&#34;cpath-training/day-02-variables.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Day 3: &lt;a href=&#34;cpath-training/day-03-advanced.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Day 1: &lt;a href=&#34;https://kelseygonzalez.github.io/cpath-training/day-01-basics.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Day 2: &lt;a href=&#34;https://kelseygonzalez.github.io/cpath-training/day-02-variables.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Day 3: &lt;a href=&#34;https://kelseygonzalez.github.io/cpath-training/day-03-advanced.html&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>
