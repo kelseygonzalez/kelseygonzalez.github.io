@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/workshop/2021-05-26-cpath/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/masks/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/eric-t.-bjorklund/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/kelsey-e.-gonzalez/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/rina-james/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/terrence-d.-hill/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/workshop/2021-05-26-cpath/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/workshop/</loc>
@@ -17,25 +44,7 @@
     <loc>/tag/workshop/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/andrew-p.-davis/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/kelsey-e.-gonzalez/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/terrence-d.-hill/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/politicscoronavirus/</loc>

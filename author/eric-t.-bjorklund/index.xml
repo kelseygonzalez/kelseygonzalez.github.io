@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric T. Bjorklund | Kelsey E. Gonzalez</title>
+    <link>/author/eric-t.-bjorklund/</link>
+      <atom:link href="/author/eric-t.-bjorklund/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric T. Bjorklund</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/kelseygonzalez2020.png</url>
+      <title>Eric T. Bjorklund</title>
+      <link>/author/eric-t.-bjorklund/</link>
+    </image>
+    
+    <item>
+      <title>Conservatism and Infrequent Mask Usage: A Study of US Counties During the Novel Coronavirus (COVID-19) Pandemic</title>
+      <link>/publication/masks/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/masks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
